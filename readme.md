@@ -1,3 +1,4 @@
+Estou muito orgulhoso em compartilhar meu primeiro "mini" projeto em TSX.
 COMO RODAR O PROJETO BAIXADO
 
 
